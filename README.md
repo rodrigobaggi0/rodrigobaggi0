@@ -4,6 +4,8 @@
 
 Francisco Beltrão, Paraná
 
+> **Aberto a oportunidades como desenvolvedor full stack.**
+
 ## Sobre mim
 
 Desenvolvo aplicações completas, do front-end ao back-end, incluindo aplicativos mobile. Gosto de construir sistemas de gestão, lojas virtuais e integrações, cuidando de interface, API, banco de dados e deploy.
