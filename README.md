@@ -8,7 +8,7 @@ Francisco Beltrão, Paraná
 
 ## Sobre mim
 
-Desenvolvo aplicações completas, do front-end ao back-end, incluindo aplicativos mobile. Gosto de construir sistemas de gestão, lojas virtuais e integrações, cuidando de interface, API, banco de dados e deploy.
+Desenvolvo aplicações completas, do front-end ao back-end, incluindo aplicativos mobile, com foco em desenvolver sistemas de gestão, lojas virtuais e integrações entre outros, cuidando de interface, API, banco de dados e deploy.
 
 ## Linguagens
 
