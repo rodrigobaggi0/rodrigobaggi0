@@ -48,23 +48,7 @@ Desenvolvo aplicações completas, do front-end ao back-end, incluindo aplicativ
 ### Dados e nuvem
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## Projetos
-
-Os códigos dos projetos são privados. Em resumo:
-
-- **ERP completo:** sistema de gestão de vendas, estoque, financeiro e fiscal, com front-end em React e API em NestJS.
-- **Popular da Copa:** aplicativo mobile (Expo/React Native) com álbum de figurinhas, reconhecimento de figurinhas por IA, Firebase e troca por Bluetooth.
-- **E-commerce:** loja virtual com API em NestJS e front-end em React, com autenticação social.
-- **Gestor de tarefas:** API em NestJS com autenticação JWT e front-end web.
-
-## Formação
-
-Técnico em Informática para Internet.
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-baggio-89330874/)
