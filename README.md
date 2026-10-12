@@ -1,4 +1,3 @@
-# Olá, eu sou o Rodrigo Baggio
 
 **Desenvolvedor full stack | Técnico em Informática para Internet**
 
